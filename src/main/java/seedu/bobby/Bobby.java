@@ -99,7 +99,7 @@ public class Bobby {
                 Platform.exit();
                 System.exit(0);
             }
-        }, 1000);
+        }, 1250);
     }
 
     public static void main(String[] args) {
